@@ -7,12 +7,6 @@
       "location": "BROOKLYN"
     },
     {
-      "id": 2,
-      "description": "2019 Toyota Tacoma grill",
-      "image": "./images/toyota-grill.jpg",
-      "location": "Williamsburg"
-    },
-    {
       "id": 3,
       "description": "Free Braun 3735 Electric Toothbrush charger",
       "image": "./images/toothbrush-charger.jpg",
@@ -41,6 +35,25 @@
       "description": "Treadmill Parts For Free",
       "image": "./images/treadmill.jpg",
       "location": "East Flatbush"
+    },
+    {
+      "description": "asdf",
+      "image": "f",
+      "location": "",
+      "": "d",
+      "id": 8
+    },
+    {
+      "description": "asdf",
+      "image": "https://www.rollingstone.com/wp-content/uploads/2019/11/prince-1999-feature.jpg",
+      "location": "adsfff",
+      "id": 9
+    },
+    {
+      "description": "asdf",
+      "image": "https://glebekitchen.com/wp-content/uploads/2017/04/tonkotsuramenfront.jpg",
+      "location": "asdf",
+      "id": 10
     }
   ]
 }
